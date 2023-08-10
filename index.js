@@ -12,3 +12,5 @@ app.get("/login", (req, res) => res.send('This is the login route'));
 app.listen((3000),()=>{
     console.log("Server is Running")
 })
+
+exports = {app}
