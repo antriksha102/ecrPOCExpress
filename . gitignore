@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Docker artifacts
+Dockerfile
+.dockerignore
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Compiled files
+dist/
+
+# Temporary files
+*.tmp
+*.swp
